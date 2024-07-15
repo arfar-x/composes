@@ -1,0 +1,6 @@
+.vscode
+.idea
+*.todo
+.env
+*/secrets/*
+!*/secrets/*.example
